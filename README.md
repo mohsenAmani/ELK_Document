@@ -23,6 +23,10 @@ Document about ELK stack learning
 در کنار هم، Beats و Logstash مسئولیت جمع‌آوری و پردازش داده‌ها را در دست دارند، Elasticsearch داده‌ها را فهرست‌بندی و ذخیره می‌کند و Kibana یک رابط کاربری برای جستجوی داده‌ها و تجسم آنها فراهم می‌کند
   </p>
 
+<p align="center">
+ <img alt="ELK-Logo-01" src="image/elk-01.png">
+</p>
+</br>
 
 <h3 dir=rtl>
   اصطلاحات رایج در Git:
